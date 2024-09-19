@@ -1,0 +1,27 @@
+{
+  "__comment": [
+    "This is config section for SunBurnDamage mod",
+    "Pretty easy, change it to match your desire, go to mod's page for more information",
+    "Use integer numbers and true/false to prevent errors",
+    "All minecraft mob type can be toggle for burning below"
+  ],
+  "mechanic": {
+    "enable": "true",
+    "damageadded": "3",
+    "UNDEAD": "true",
+    "ARTHROPOD": "false",
+    "ILLAGER": "false",
+    "WATER": "false",
+    "UNDEFINED": "false"
+  },
+  "affectmobname": [
+    "minecraft:zombie",
+    "minecraft:drowned",
+    "minecraft:cow",
+    "minecraft:ghast"
+  ],
+  "non-affectmobname": [
+    "minecraft:zombiefied_piglin",
+    "minecraft:husk"
+  ]
+}

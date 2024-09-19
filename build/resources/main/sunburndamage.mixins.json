@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.shinjoy991.sunburndamage.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "sunburndamage.refmap.json",
+  "mixins": [
+    "MobMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

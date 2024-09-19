@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: sunburndamage
+Specification-Vendor: ShinJoy991
+Specification-Version: 1
+Implementation-Title: SunBurnDamage
+Implementation-Version: 1.20.1v1.0
+Implementation-Vendor: ShinJoy991
+Implementation-Timestamp: 2024-09-14T14:35:43+0700
+MixinConfigs: sunburndamage.mixins.json
+

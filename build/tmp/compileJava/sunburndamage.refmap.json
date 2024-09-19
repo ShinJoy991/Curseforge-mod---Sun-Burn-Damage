@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/github/shinjoy991/sunburndamage/mixin/MobMixin": {
+      "isSunBurnTick": "Lnet/minecraft/world/entity/Mob;m_21527_()Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/github/shinjoy991/sunburndamage/mixin/MobMixin": {
+        "isSunBurnTick": "Lnet/minecraft/world/entity/Mob;m_21527_()Z"
+      }
+    }
+  }
+}
